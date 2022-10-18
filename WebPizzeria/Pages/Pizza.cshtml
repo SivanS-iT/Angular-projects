@@ -1,0 +1,35 @@
+﻿@page
+@model WebPizzeria.Pages.PizzaModel
+@{
+}
+
+<div class="text-center">
+    <div class="mainText">
+        <h1 class="display-4 text-capitalize text-black">This is selection of la pizzas</h1>
+        <h4>Choose carefully with Pizza builder and than order!!</h4>
+        <p class="smallText"><i>Only one pizza per order</i></p>
+    </div>
+     <div class="containger">
+        <div class="row">
+            <div class="col-12 mb-5 mt-5">
+                <div class="w-100 row makeYourOwnDiv">
+                    <div class="col-4">
+                        <img src="~/Pictures/Pizza_Slice1.png" class="w-100" />
+                    </div>
+
+                    <div class="col-8 align-items-center">
+                        <div class="align-middle makeYourOwnText">
+                            <h3 style="text-align: center;">Create your Own la pizza</h3>
+                            <p style="text-align: center;">Make your own Pizza with my Pizza maker!!</p>
+                            <a class="btn btn-primary" style="align-content:center" asp-area="" asp-page="Forrms/CustomPizza">Try it!!</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-5">
+                <img src="" class="w-100" asp-append-version="true" />
+                <a class="btn btn-primary mt-1" asp-area="" asp-page="Checkout/Checkout">Get tis pizza!</a>
+            </div>
+        </div>
+    </div>
+</div>

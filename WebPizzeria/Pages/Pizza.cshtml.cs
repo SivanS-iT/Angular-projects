@@ -10,17 +10,44 @@ namespace WebPizzeria.Pages
         { 
            new PizzasModel ()
            {
-               ImageTitle="PeperoniPizza", 
-               PizzaName="Magerita", 
+               ImageTitle="CheesePizza", 
+               PizzaName="CheesePizza", 
                BasePrice=2, 
+               TomatoSauce = false,
+               Cheese = true,
+               FinalPrice = 4
+           },
+           new PizzasModel ()
+           {
+               ImageTitle="KebabPizza",
+               PizzaName="KebabPizza",
+               BasePrice=2,
                TomatoSauce = true,
                Cheese = true,
                FinalPrice = 4
            },
            new PizzasModel ()
            {
-               ImageTitle="Magerita",
-               PizzaName="Magerita",
+               ImageTitle="KebabPizza",
+               PizzaName="KebabPizza",
+               BasePrice=2,
+               TomatoSauce = true,
+               Cheese = true,
+               FinalPrice = 4
+           },
+           new PizzasModel ()
+           {
+               ImageTitle="KebabPizza",
+               PizzaName="KebabPizza",
+               BasePrice=2,
+               TomatoSauce = true,
+               Cheese = true,
+               FinalPrice = 4
+           },
+           new PizzasModel ()
+           {
+               ImageTitle="KebabPizza",
+               PizzaName="KebabPizza",
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,

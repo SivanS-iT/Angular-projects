@@ -28,8 +28,8 @@ namespace WebPizzeria.Pages
            },
            new PizzasModel ()
            {
-               ImageTitle="KebabPizza",
-               PizzaName="KebabPizza",
+               ImageTitle="PeperoniPizza",
+               PizzaName="PeperoniPizza",
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,
@@ -37,8 +37,8 @@ namespace WebPizzeria.Pages
            },
            new PizzasModel ()
            {
-               ImageTitle="KebabPizza",
-               PizzaName="KebabPizza",
+               ImageTitle="TunaPizza",
+               PizzaName="TunaPizza",
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,
@@ -46,8 +46,8 @@ namespace WebPizzeria.Pages
            },
            new PizzasModel ()
            {
-               ImageTitle="KebabPizza",
-               PizzaName="KebabPizza",
+               ImageTitle="VegePizza",
+               PizzaName="VegePizza",
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,

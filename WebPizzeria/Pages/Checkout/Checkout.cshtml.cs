@@ -18,7 +18,7 @@ namespace WebPizzeria.Pages.Checkout
             }
             if (String.IsNullOrWhiteSpace(ImageTitle))
             {
-                ImageTitle = "Create";
+                ImageTitle = "Pizza_Slice";
             }
         }
     }

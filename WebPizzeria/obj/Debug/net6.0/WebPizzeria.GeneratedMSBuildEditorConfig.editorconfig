@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebPizzeria
 build_property.RootNamespace = WebPizzeria
-build_property.ProjectDir = C:\Users\Ivan\Desktop\ASP.NET core\WebPizzeria\
+build_property.ProjectDir = C:\Users\ivan.sambol\Desktop\Sambol Repository\ASP.NET-core-projects\WebPizzeria\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ivan\Desktop\ASP.NET core\WebPizzeria
+build_property.MSBuildProjectDirectory = C:\Users\ivan.sambol\Desktop\Sambol Repository\ASP.NET-core-projects\WebPizzeria
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Checkout/Checkout.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Checkout/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Checkout/ThankYou.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Checkout/ThankYou.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcVGhhbmtZb3UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Error.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Forrms/CustomPizza.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Forrms/CustomPizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ycm1zXEN1c3RvbVBpenphLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Index.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Pizza.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Pizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Privacy.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/_ViewImports.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/_ViewStart.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ivan/Desktop/ASP.NET core/WebPizzeria/Pages/Shared/_Layout.cshtml]
+[C:/Users/ivan.sambol/Desktop/Sambol Repository/ASP.NET-core-projects/WebPizzeria/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7q8yw31v64

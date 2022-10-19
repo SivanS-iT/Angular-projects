@@ -15,6 +15,10 @@ namespace WebPizzeria.Pages
                BasePrice=2, 
                TomatoSauce = false,
                Cheese = true,
+               Peperoni = false,
+               tuna = false,
+               kebab = false,
+               Vege = false,
                FinalPrice = 4
            },
            new PizzasModel ()
@@ -24,6 +28,10 @@ namespace WebPizzeria.Pages
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,
+               Peperoni = false,
+               tuna = false,
+               kebab = true,
+               Vege = false,
                FinalPrice = 4
            },
            new PizzasModel ()
@@ -33,6 +41,10 @@ namespace WebPizzeria.Pages
                BasePrice=2,
                TomatoSauce = true,
                Cheese = true,
+               Peperoni = true,
+               tuna = false,
+               kebab = false,
+               Vege = false,
                FinalPrice = 4
            },
            new PizzasModel ()
@@ -41,7 +53,11 @@ namespace WebPizzeria.Pages
                PizzaName="TunaPizza",
                BasePrice=2,
                TomatoSauce = true,
-               Cheese = true,
+               Cheese = false,
+               Peperoni = false,
+               tuna = true,
+               kebab = false,
+               Vege = false,
                FinalPrice = 4
            },
            new PizzasModel ()
@@ -50,7 +66,11 @@ namespace WebPizzeria.Pages
                PizzaName="VegePizza",
                BasePrice=2,
                TomatoSauce = true,
-               Cheese = true,
+               Cheese = false,
+               Peperoni = false,
+               tuna = false,
+               kebab = false,
+               Vege = true,
                FinalPrice = 4
            },
 

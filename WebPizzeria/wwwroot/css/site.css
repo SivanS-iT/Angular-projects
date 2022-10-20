@@ -53,5 +53,8 @@ body {
 
 }
 
+.pizzasImages :hover{
+    transform: scale(1.08);
+}
 
 
